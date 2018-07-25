@@ -1,3 +1,7 @@
+## Setup
+
+`nix-env --install --file shell.nix`
+
 # Haskell Servant and Elm Example
 
 This example project illustrates how to set up a project that:

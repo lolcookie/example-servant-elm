@@ -6,3 +6,8 @@ packages:
       git: https://www.github.com/soenkehahn/wai-make-assets
       commit: c72a924
     extra-dep: true
+  - location: ./reserve
+    extra-dep: true
+
+extra-deps:
+  - http-kit-0.5.1

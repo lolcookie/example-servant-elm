@@ -8,5 +8,5 @@ exec docker run                 \
        --interactive            \
        --tty                    \
        -v "$PWD:/root/workshop" \
-       psimons/hex2017          \
+       elmhaskell          \
        "$@"
